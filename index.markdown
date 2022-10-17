@@ -10,14 +10,19 @@ ight bruh
 
 ya just be dat ohncal
 
-{% for post in site.posts %}
+<ul class="post-list">
+{%- for post in site.posts -%}
+<li>
   <article>
-    <h2>
+    <span>
+    
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h2>
+    
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
+    </span>
   </article>
-{% endfor %}
+</li>
+{%- endfor -%}
+</ul>
