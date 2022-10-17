@@ -47,7 +47,7 @@ Of course, people will say that "others are exceeding us," but are we actually r
 As a side note, I credit Ramoji for his efforts in preserving Telugu culture with ETV news, the last *real* Telugu news station.
 
 
-If my post did not spark anything in you to save our ailing culture, please read more about this self-destructive mentality attributed to us:
+If my post did not spark anything in you to save our ailing culture, please read more about this విచిత్రమైన । అనుఖ్యమైన మరియు స్వీయ ద్వేషించే మనస్తత్వం (strange, unique and self-deprecative mentality)
 
 <a href='https://www.quora.com/Is-the-Telugu-language-getting-extinct-day-by-day'>https://www.quora.com/Is-the-Telugu-language-getting-extinct-day-by-day</a>
 
