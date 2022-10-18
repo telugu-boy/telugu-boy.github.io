@@ -4,6 +4,8 @@ title:  "అక్కఱవాటి తెలుగువాడు (The Utilita
 categories: politics
 ---
 
+అక్కఱవాటి తెలుగువాడు (The Utilitarian Telugu)
+
 అక్టోబారు ౧౭ ౨౦౨౨
 October 17, 2022
 
