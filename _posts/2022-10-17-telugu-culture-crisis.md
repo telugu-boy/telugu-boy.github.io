@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "అక్కఱవాటి తెలుగువాడు"
+title:  "అక్కఱవాటి తెలుగువాడు (The Utilitarian Telugu)"
 categories: politics
 ---
 
