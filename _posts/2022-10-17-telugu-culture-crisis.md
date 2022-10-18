@@ -5,9 +5,10 @@ categories: politics
 ---
 
 అక్కఱవాటి తెలుగువాడు (The Utilitarian Telugu)
+{:center}
 
-అక్టోబారు ౧౭ ౨౦౨౨
-October 17, 2022
+అక్టోబారు ౧౭ ౨౦౨౨ October 17, 2022
+{:center}
 
 Fun fact: If two Tamils meet in any place outside of Tamil Nadu, they speak in Tamil. If two Malayalis meet outside of Kerala, they speak in Malayalam. If two Telugus meet outside of Andhra, guess what? They speak in English.
 
