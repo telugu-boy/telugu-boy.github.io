@@ -84,4 +84,6 @@ If my post did not spark anything in you to save our ailing culture, please read
 
 <a href='https://www.quora.com/Why-do-Andhra-Pradesh-youth-are-very-obsessed-with-their-caste-Dont-you-think-their-parents-are-the-reason-for-it'>https://www.quora.com/Why-do-Andhra-Pradesh-youth-are-very-obsessed-with-their-caste-Dont-you-think-their-parents-are-the-reason-for-it</a>
 
+<a href='https://www.quora.com/Do-people-love-English-than-Telugu-in-Andhra-Pradesh'>https://www.quora.com/Do-people-love-English-than-Telugu-in-Andhra-Pradesh</a>
+
 <a href='https://www.paatashaala.in/2018/09/telugu-dying-slow-death-among-youth-is-the-telugu-language-gettng-extinct-day-by-day.html'>https://www.paatashaala.in/2018/09/telugu-dying-slow-death-among-youth-is-the-telugu-language-gettng-extinct-day-by-day.html</a>
